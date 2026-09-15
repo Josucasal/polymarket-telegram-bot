@@ -1,0 +1,14 @@
+{
+  "chats": {
+    "6817417116": {
+      "threshold": 1000,
+      "wallets": {
+        "0x51698a47f840a242abc2ca0351371c7ffac41842": {
+          "label": "",
+          "addedAt": 1789492741,
+          "lastSeenTimestamp": 1789492741
+        }
+      }
+    }
+  }
+}
